@@ -186,7 +186,7 @@ export const projects = [
     date: "Oct 2023 - Oct 2023",
     description:
       "Presenting my latest Chat Application! Enjoy real-time messaging, a sleek UI, and secure communication. The app features interactive notifications, including an unread message count for quick updates. ",
-    image: "mailbox.png",
+    image: "mailBox.png",
     tags: [
       "React Js",
       "Firebase",

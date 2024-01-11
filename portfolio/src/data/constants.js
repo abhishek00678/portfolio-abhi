@@ -244,7 +244,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/abhishek00678/Neon-assign",
-    webapp: "",
+    webapp: "https://portfolio-abhi-sn1c.vercel.app/",
   },
   {
     id: 2,

@@ -110,7 +110,7 @@ function Footer() {
           </SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Ashish Chaudhari . All rights reserved.
+          &copy; 2023 abhishek thakur . All rights reserved.
         </Copyright>
       </FooterWrapper>
     </FooterContainer>
